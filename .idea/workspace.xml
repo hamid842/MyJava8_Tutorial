@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="718494e4-aed2-42e6-a383-30ec3859664d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/CompareWithAndWithoutLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression_createingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression_multipleParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression_multipleStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression_noParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LamdaExpression_singleParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/CompareWithAndWithoutLambda.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +34,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../KOTLIN/PROJECTS/TransactionAnalyser" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,9 +49,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CompareWithAndWithoutLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.CompareWithAndWithoutLambda" />
+  <component name="RunManager" selected="Application.LambdaExpression_Comparator">
+    <configuration name="LambdaExpression_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.LambdaExpression_Comparator" />
+      <module name="MyJava8_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpression_createingThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.LambdaExpression_createingThread" />
+      <module name="MyJava8_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpression_multipleParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.LambdaExpression_multipleParameters" />
+      <module name="MyJava8_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpression_multipleStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.LambdaExpression_multipleStatements" />
+      <module name="MyJava8_tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpression_noParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.LambdaExpression_noParameter" />
       <module name="MyJava8_tutorial" />
       <extension name="coverage">
         <pattern>
@@ -61,7 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompareWithAndWithoutLambda" />
+        <item itemvalue="Application.LambdaExpression_Comparator" />
+        <item itemvalue="Application.LambdaExpression_createingThread" />
+        <item itemvalue="Application.LambdaExpression_multipleStatements" />
+        <item itemvalue="Application.LambdaExpression_multipleParameters" />
+        <item itemvalue="Application.LambdaExpression_noParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565105333422</updated>
     </task>
+    <task id="LOCAL-00001" summary="compare with or without lambda is practiced .">
+      <created>1565108581465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565108581465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -91,5 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="compare with or without lambda is practiced ." />
+    <option name="LAST_COMMIT_MESSAGE" value="compare with or without lambda is practiced ." />
   </component>
 </project>
