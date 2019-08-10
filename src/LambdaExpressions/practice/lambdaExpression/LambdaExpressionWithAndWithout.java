@@ -1,4 +1,4 @@
-package LambdaExpressions.practice;
+package LambdaExpressions.practice.lambdaExpression;
 
 interface DrawableSample{
     public void draw1();

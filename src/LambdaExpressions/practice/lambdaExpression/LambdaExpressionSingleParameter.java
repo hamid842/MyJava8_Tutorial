@@ -1,4 +1,4 @@
-package LambdaExpressions.practice;
+package LambdaExpressions.practice.lambdaExpression;
 
 interface PrintableSample{
     void print(String msg);
